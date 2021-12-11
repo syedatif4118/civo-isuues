@@ -47,4 +47,8 @@
 # Error faced after deploying
 ![My animated logo](https://res.cloudinary.com/duc5g3zhb/image/upload/v1639246806/err_gbow9o.png)
 
+# After I change the image in deployment.yaml file the website is working based deafult inginx
+![My animated logo](https://res.cloudinary.com/duc5g3zhb/image/upload/v1639247497/asas_mqzyju.png)
+![My animated logo](https://res.cloudinary.com/duc5g3zhb/image/upload/v1639247651/sd_oqjtck.png)
+
 
